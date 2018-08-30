@@ -10,23 +10,27 @@
 ## Part B. Manually Blink a LED
 
 **a. What color stripes are on a 100 Ohm resistor?**
- 
+ brown, black, black, red, red
 **b. What do you have to do to light your LED?**
-
+push the button and hold it! if you let go the LED turns off
 
 ## Part C. Blink a LED using Arduino
 
 ### 1. Blink the on-board LED
 
 **a. What line(s) of code do you need to change to make the LED blink (like, at all)?**
+digitalWrite()
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
+the delay() lines. the smaller the number the faster the blinking
 
 **c. What circuit element would you want to add to protect the board and external LED?**
  
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
-
+10/15. you can prove to yourself that it is still blinking because the light is on.
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
+
+[link]
 
 
 ### 2. Blink your LED
