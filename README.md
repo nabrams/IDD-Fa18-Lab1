@@ -28,6 +28,7 @@ the delay() lines. the smaller the number the faster the blinking
  
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
 10/15. you can prove to yourself that it is still blinking because the light is on.
+
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
 [MyBlink](/myBlink.ino)
