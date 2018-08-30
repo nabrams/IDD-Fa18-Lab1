@@ -38,7 +38,7 @@ the delay() lines. the smaller the number the faster the blinking
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[link to your video here; feel free to upload to youtube and just paste in a link here]
+[Blink my LED](/blink_my_led.MOV)
 
 
 ## Part D. Manually fade an LED
