@@ -40,6 +40,7 @@ the delay() lines. the smaller the number the faster the blinking
 
 [Blink my LED](/blink_my_led.MOV)
 
+[Blink your LED](/blink_your_led.MOV)
 
 ## Part D. Manually fade an LED
 
