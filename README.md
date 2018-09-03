@@ -31,7 +31,24 @@ the delay() lines. the smaller the number the faster the blinking
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
-![a relative link](./myBlink.ino)
+```audrino
+int led =11;
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(led, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(400);                       // wait for a second
+  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+  delay(400);                       // wait for a second
+
+}
+```
+
 
 
 ### 2. Blink your LED
