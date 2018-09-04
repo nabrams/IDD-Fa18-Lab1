@@ -132,3 +132,5 @@ AnalogWrite() is a PWM (Pulse-Width Modulation), making it able to write an anal
 
 
 **Include any schematics or photos in your lab write-up.**
+
+![a relative link](./schematic.JPG)
