@@ -95,6 +95,10 @@ you need to set the variable 'led' to 11 so that it connects to my circut which 
 
 AnalogWrite() is a PWM (Pulse-Width Modulation), making it able to write an analog value through digital means. It is different than digitalWrite() because digitial write only writes a High or Low value and analog is able to create varying brightnesses (dimming).
 
+[reference](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/)
+
+[reference](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)
+
 ## Part F. FRANKENLIGHT!!!
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
