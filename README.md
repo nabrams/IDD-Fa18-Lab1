@@ -102,6 +102,9 @@ AnalogWrite() is a PWM (Pulse-Width Modulation), making it able to write an anal
 ## Part F. FRANKENLIGHT!!!
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
+![a relative link](./mouse.JPG)
+![a relative link](./front.JPG)
+![a relative link](./back.JPG)
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
 
