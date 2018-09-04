@@ -122,7 +122,13 @@ AnalogWrite() is a PWM (Pulse-Width Modulation), making it able to write an anal
 
 **Make a video showing off your Frankenlight.**
 
+***Add an LED***
+
 [![Watch the video](/frankenlight_pic.jpg)](https://youtu.be/EGgCspMCIh4)
+
+***Hack the exsisting LED***
+
+[![Watch the video](/frankenlight_visual2.jpg)](https://youtu.be/IuNmaIKVBm4)
 
 
 **Include any schematics or photos in your lab write-up.**
